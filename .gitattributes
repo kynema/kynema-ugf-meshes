@@ -1,0 +1,10 @@
+# set default
+* text=auto
+
+# denote all binary files
+*.so binary
+*.g binary
+*.g.* binary
+*.exo binary
+*.exo.* binary
+*.h5 binary
